@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ES6",
+        "alwaysStrict": true,
+        "sourceMap": true,
+        "strict": true,
+        "outDir": "out",
+        "composite": true
+    },
+    "include": [
+        "./src/*"
+    ],
+    "exclude": [
+        ""
+    ]
+}
